@@ -1,0 +1,2 @@
+D:/Agaaf/Interns/CodeAlpha/Projects/taskone/CMakeFiles/ALL_BUILD.dir
+D:/Agaaf/Interns/CodeAlpha/Projects/taskone/CMakeFiles/ZERO_CHECK.dir
